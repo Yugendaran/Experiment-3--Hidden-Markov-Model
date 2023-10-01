@@ -14,10 +14,13 @@ Step 8:Calculate the probability of the observed sequence by summing the last ro
 Step 9:Find the most likely sequence of hidden states by selecting the hidden state with the highest probability at each time step based on the alpha matrix.</br>
 
 ##  Program:
-''' Type your code here'''
+DEVELOPED BY : YUGENDARAN G
+REG NO : 212221220063
+```
+
 
 ## Output:
-
+![image](https://github.com/Yugendaran/Experiment-3--Hidden-Markov-Model/assets/128135616/e117af6b-ea53-427a-9f05-5506653cb8c0)
 
 
 ## Result:
